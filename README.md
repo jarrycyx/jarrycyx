@@ -2,13 +2,13 @@
 
 ✨ Home Page ｜ 个人主页：https://openlens.icu/me/
 
-我是程宇笑，清华大学自动化系博士生。我计划于2026秋季开始求职，并于2027年毕业。
+我是程宇笑，清华大学自动化系博士生。我计划于2026开始求职，并于2027年毕业。
 
 我的研究方向是医疗人工智能（AI for Healthcare），具体包括医疗中的因果建模、AI 智能体（AI Agents）以及多模态学习。
 
 欢迎关注我开发的[**🫧 全自主多模态科研智能体OpenLens AI**](https://github.com/jarrycyx/openlens-ai), 它是一个专为医学/ML/统计研究或任何数据驱动项目设计的完全自主的多模态智能体，为AI+医学研究优化。 只需提供您的数据集和一个简单的研究想法，它便能独立进行文献综述、设计实验、分析数据并生成全面的研究报告——无需任何人工干预。
 
-I am Yuxiao Cheng, a Ph.D. student in the Department of Automation, Tsinghua University. I will be on the job market for Fall 2026.
+I am Yuxiao Cheng, a Ph.D. student in the Department of Automation, Tsinghua University. I will be on the job market for 2026.
 
 My research focuses on AI for Healthcare, specifically on causal modelling, AI Agents, and multi-modal learning in digital healthcare.
 
