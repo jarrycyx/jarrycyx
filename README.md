@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+✨ Home Page ｜ 个人主页：https://openlens.icu/me/
+
+I am Yuxiao Cheng, a Ph.D. student in the Department of Automation, Tsinghua University.
+
+My research focuses on AI for Healthcare, specifically on causal modelling, AI Agents, and multi-modal learning in digital healthcare.
+
+我是程宇笑，清华大学自动化系博士生。
+
+我的研究方向是医疗人工智能（AI for Healthcare），具体包括医疗中的因果建模、AI 智能体（AI Agents）以及多模态学习。
+
 <!--
 **jarrycyx/jarrycyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
